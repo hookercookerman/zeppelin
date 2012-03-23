@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = 'zeppelin'
 
   s.add_dependency 'faraday'
-  s.add_dependency 'multi_json', '~> 1.1'
+  s.add_dependency 'multi_json', '~> 1.0.4'
 
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'rake'
